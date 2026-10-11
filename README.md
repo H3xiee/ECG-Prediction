@@ -126,7 +126,7 @@ Classification Result
 Clone the repository
 
 ```bash
-git clone https://github.com/krishikachellappandiyan-cpu/ECG-Prediction.git
+git clone   git clone https://github.com/H3xiee/ECG-Prediction.git
 ```
 
 Move into the project directory
