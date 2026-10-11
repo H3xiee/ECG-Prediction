@@ -235,7 +235,7 @@ Typical architecture:
 
 Bachelor of Technology – Biomedical Engineering
 
-GitHub: https://github.com/H3xiee/ECG-Prediction.git
+GitHub: https://github.com/H3xiee
 
 ---
 
